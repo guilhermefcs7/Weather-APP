@@ -6,8 +6,6 @@
 <p/>
 .React =>
 <p/>
-.Hooks
-<p/>
 .Axios (consuming Api)
 <p/>
 .Async/Await
